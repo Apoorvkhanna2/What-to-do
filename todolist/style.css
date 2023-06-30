@@ -1,0 +1,24 @@
+h1,h2{
+    background-color: cyan;
+    color:blue
+    
+}
+body{
+    background-image: url(timetable.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-color: cyan;
+    text-align: center;
+    
+}
+pre{
+    color: solid white;
+    text-decoration: black dotted;  
+    text-shadow: brown; 
+    background-color: yellow;
+ }
+ a:link{
+    color: red;
+    font-size: 25px;
+    font-family: fantasy;
+ }

@@ -1,0 +1,14 @@
+body{
+    background-image: url(todo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:hsl(39, 75%, 33%)
+}
+H1{
+    color:rgb(71, 15, 15)
+    
+}
+pre{color: black;
+    font-size: 18px;
+
+}
